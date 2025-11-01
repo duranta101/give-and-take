@@ -1,1 +1,1 @@
-<p>"Give & Take" is a social impact platform designed to share surplus food with those in need. The goal is to reduce food waste and ensure that good, edible food reaches the right hands.<p>
+"Give & Take" is a social impact platform developed to share surplus food with those in need. The goal is to reduce food waste and ensure that good, edible food reaches the right hands.
